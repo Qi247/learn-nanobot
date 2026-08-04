@@ -57,3 +57,6 @@ todos.json
 
 # Docker
 .dockerignore
+
+# Personal study plans
+10天冲刺学习计划.md
